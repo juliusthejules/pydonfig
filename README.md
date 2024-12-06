@@ -85,7 +85,7 @@ hostname > "localhost"
 // DNS configuration
 dns:
     primary > "127.0.0.0"
-    secondary > "0.0.0.0"
+    secondary > "::1"
 
 // Encryption settings
 encryption:
