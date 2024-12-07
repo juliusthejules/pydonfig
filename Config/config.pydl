@@ -23,7 +23,7 @@ hostname > "localhost"
 
 // DNS configuration
 dns:
-    primary > "127.0.0.0"
+    primary > "127.0.0.1"
     secondary > "::1"
 
 // Encryption settings
